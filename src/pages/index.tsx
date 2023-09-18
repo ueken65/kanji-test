@@ -1,5 +1,5 @@
-import { Start } from '../components/Start'
+import { Main } from '~/components/Main'
 
 export default function Home() {
-  return <Start />
+  return <Main />
 }
